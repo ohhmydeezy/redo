@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    color: rgb(68, 255, 193);
+}
+
+li {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

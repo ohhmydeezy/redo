@@ -11,7 +11,8 @@ a {
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
-    font-size: 100px;
+    text-decoration: solid;
+    font-size: 30px;
+    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

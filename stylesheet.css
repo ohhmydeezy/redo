@@ -1,6 +1,6 @@
 body {
-    background-color: gray;
-    color: rgb(68, 255, 193);
+    background-color: rgb(197, 197, 197);
+    color: rgb(0, 71, 47);
 }
 
 li {
@@ -15,4 +15,10 @@ a:hover {
     font-size: 30px;
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+    width: 70%;
+    margin: 40px auto;
+    border: 3px solid black;
+    box-shadow: 3px 7px black ;
 }
